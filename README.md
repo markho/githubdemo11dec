@@ -14,3 +14,10 @@ This is subtitle
 ## not that important
 
 ### minor issues
+
+### Android has 4 elements
+
+* Activity
+* Service
+* Broadcast Receiver
+* Content Provider
