@@ -29,3 +29,5 @@ Android runing sequence
 2. onStart
 3. dddddd
 3. onRestart
+
+[Yahoo buy](http://buy.yahoo.com.tw)
