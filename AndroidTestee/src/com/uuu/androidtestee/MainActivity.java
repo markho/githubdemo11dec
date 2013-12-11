@@ -16,6 +16,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		Log.v("abc","bla ...");
+		Log.v("abc","add something in another worksapce");
 	}
 
 	@Override
